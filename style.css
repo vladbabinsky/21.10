@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background: center/cover no-repeat url('/images/background.png');
+    background: center/cover no-repeat url('images/background.png');
     font-family: 'Inter', sans-serif;
 }
 
