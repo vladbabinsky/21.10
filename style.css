@@ -98,7 +98,7 @@ section {
     bottom: 40%;
     left: 5%;
     max-width: 1200px;
-    padding: 0 20px; /* Добавил отступ для мобильных устройств */
+    padding: 0 20px;
 }
 
 .sec1-container {
@@ -112,7 +112,7 @@ section {
 }
 
 .albus {
-    margin: 30px 0 0 0; /* Убрали фиксированный отступ */
+    margin: 30px 0 0 0;
     text-align: left;
     font-size: 20px;
     color: #FFF;
